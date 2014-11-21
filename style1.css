@@ -1,25 +1,29 @@
-h1{
+style.css
+    <head>
+        <title>CSS Exercises 1</title>
+    </head>
+   
+       
 
-             color: purple;
+        <style type="text/css">
 
-          }
+        h1{
 
-          h3{
+            color:red;
 
+        }
+
+        p{
             color: blue;
-            background-color: green;
-          }
+            font-family: Helvetica ;
+            font-size: 16;
 
-          p{
-            font-family: 'Arial';
-          }
 
-         #Languages_title{ 
-            color: purple;
-          }
+        }
+
+
         
-          .language_item{
 
-            color: blue;
 
-          }
+
+        </style>
